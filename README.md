@@ -1,6 +1,10 @@
 # World News — 20 November 2026, in one image
 
-An entry for make.fun's `news-image-20261120` bounty: sum up the world's news
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/yun-node/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/yun-node/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+
+An entry for [make.fun](https://make.fun/bounty/news-image-20261120)'s `news-image-20261120` bounty: sum up the world's news
 of Friday 20 November 2026 in a single 1024×1024 image. An AI judge compares
 entries pairwise and ranks them; the top 50 share the $250 prize.
 
